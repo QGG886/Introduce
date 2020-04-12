@@ -9,3 +9,5 @@
 详情: https://www.bilibili.com/video/BV1Fx411o7dQ?from=search&seid=2193127752018978097
 
 我们会不定期分享一些小项目，仅供娱乐恶搞。
+
+如果想要知道我们什么时候会分享，就去问魔法海螺吧。
