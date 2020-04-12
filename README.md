@@ -7,3 +7,5 @@
 只要我们团结一致，记住我们属于一个俱乐部
 
 详情: https://www.bilibili.com/video/BV1Fx411o7dQ?from=search&seid=2193127752018978097
+
+我们会不定期分享一些小项目，仅供娱乐恶搞。
